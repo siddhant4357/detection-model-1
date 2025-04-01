@@ -122,9 +122,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -133,9 +130,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Hugging Face for additional AI capabilities
 - Fact Check API for fact-checking services
 
-## 📞 Support
-
-For support, email your.email@example.com or create an issue in the repository.
 
 ## 🔄 Updates
 
@@ -152,4 +146,4 @@ This project is actively maintained and regularly updated with new features and 
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Group1]
